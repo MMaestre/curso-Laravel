@@ -1,0 +1,15 @@
+{
+    "name": "mmaestre/composer",
+    "authors": [
+        {
+            "name": "Maria Maestre",
+            "email": "maria.maestre@aquaservice.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Usuario\\":"Usuario/"
+        }
+    }
+}

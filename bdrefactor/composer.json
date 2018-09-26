@@ -1,0 +1,16 @@
+{
+    "name": "administrador/bdrefactor",
+    "authors": [
+        {
+            "name": "Maria Maestre",
+            "email": "maria.maestre@aquaservice.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Config\\":"Config/",
+            "Helpers\\":"Helpers/"
+        }
+    }
+}
